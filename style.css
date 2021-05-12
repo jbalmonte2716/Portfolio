@@ -1,7 +1,25 @@
 body {
-  background-color: #233abe;
+  background-color: #888a86;
 }
  
+.pageContainer {
+    width: 940px;
+    margin: 20px auto 0 auto;
+    padding: 20px;
+    background-color: #fff;
+  }
+   
+  .imageContainer {
+    float: left;
+    width: 620px;
+  }
+   
+  .textContainer {
+    float: left;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
 
 img {
   width: 100%;
@@ -14,7 +32,7 @@ h1 {
 }
  
 p, li {
-  font-family: 'Lato', sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif
   font-size: 22px;
   color: #51473b;
 }
