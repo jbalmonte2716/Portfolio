@@ -1,29 +1,10 @@
 body {
-  background-color: #888a86;
+  background-color: #ffffff;
 }
  
-.pageContainer {
-    width: 940px;
-    margin: 20px auto 0 auto;
-    padding: 20px;
-    background-color: #fff;
-  }
-   
-  .imageContainer {
-    float: left;
-    width: 620px;
-  }
-   
-  .textContainer {
-    float: left;
-    width: 300px;
-    margin-left: 20px;
-    margin-top: 20px;
-  }
-
 img {
-  width: 100%;
-}
+  width: 50%;
+ }
  
 h1 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
@@ -33,6 +14,7 @@ h1 {
  
 p, li {
   font-family: Georgia, 'Times New Roman', Times, serif
+
   font-size: 22px;
   color: #51473b;
 }
