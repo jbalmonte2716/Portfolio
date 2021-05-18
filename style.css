@@ -1,7 +1,7 @@
 body {
   background-color: #ffffff;
   text-align: center;  
-}
+} /* Explore how to change background using images */
  
 img {
   height: 400px;
@@ -11,7 +11,7 @@ h1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 64px;
   color: #8b1b00;
-}
+} /* Try changing font styles to something more hip and catchy */
 
 h2 {
   font-family: Georgia, 'Times New Roman', Times, serif;
